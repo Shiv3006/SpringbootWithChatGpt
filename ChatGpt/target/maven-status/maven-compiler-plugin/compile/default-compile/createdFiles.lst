@@ -1,0 +1,7 @@
+com\bnt\ChatGpt\ChatGptApplication.class
+com\bnt\ChatGpt\dto\ChatGptResponse.class
+com\bnt\ChatGpt\dto\ChatGPTRequest.class
+com\bnt\ChatGpt\dto\Message.class
+com\bnt\ChatGpt\ChatGptController.class
+com\bnt\ChatGpt\dto\ChatGptResponse$Choice.class
+com\bnt\ChatGpt\config\OpenAiConfig.class
